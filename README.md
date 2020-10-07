@@ -25,7 +25,7 @@ Goals:
 
 1. Setup up a python virtual environment for the repo
 2. Run `pip install fastapi uvicorn` to install fastapi and uvicorn
-3. Run `pip install -r requirements.txt -r requirements.development.txt` to install additional dependencies
+3. Run `pip install -r requirements.development.txt` to install additional dependencies
 
 ## Running the application for development
 
